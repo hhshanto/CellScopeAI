@@ -18,7 +18,7 @@ The project utilizes images from the Broad Bioimage Benchmark Collection (BBBC),
 - **Evaluation**: Performance is evaluated using metrics such as accuracy, precision, recall, and F1-score for classification, and Intersection over Union (IoU) for segmentation.
 
 ## Requirements
-- Python 3.8+
+- Python 3.8
 - TensorFlow 2.x
 - Keras
 - NumPy
